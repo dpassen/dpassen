@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 ```clojure
-{:name "Derek Passen"
- :email "derek@passen.org"
+{:name "Derek Passen",
+ :email "derek@passen.org",
  :languages
  [:clojure
   :clojurescript
@@ -9,8 +9,7 @@
   :java
   :elixir
   :javascript
-  :typescript]
- :location
- {:city "Chicago"
-  :state "Illinois"}}
+  :typescript
+  :php],
+ :location {:city "Chicago", :state "Illinois"}}
 ```
