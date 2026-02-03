@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
+
 ```clojure
 {:name "Derek Passen",
- :email "derek@passen.org",
  :languages
  [:clojure
   :clojurescript
